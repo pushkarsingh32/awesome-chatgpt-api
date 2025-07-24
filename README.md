@@ -216,6 +216,10 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
     The author explored the utilization of vector embeddings derived from the text that closely matches the prompt in the original tweet: [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
 
+- [Semantic Chat](https://www.semanticpen.com/)
+
+    A comprehensive AI platform offering article writing, chat functionality, and image generation with BYOK (bring your own key) support across multiple AI models.
+
 - [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic)
 
     Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
