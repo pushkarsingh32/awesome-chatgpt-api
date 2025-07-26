@@ -190,10 +190,22 @@
 
 ### 特殊用途
 
+- [AI Subtitle Translator](https://ai.cgsv.top/)
+
+    使用GPT-3.5 API翻译本地或Youtube/Bilibili字幕。源代码: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    哔哩哔哩字幕视频一键汇总。源代码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 - [ChatFiles](https://github.com/guangzhengli/ChatFiles)
 
     一个可以上传文件并与之对话的网络应用程序。
     该存储库使用jerryjliu/llama_index拆分大文本，基于mckaywrigley/chatbot-ui，并受到madawei2699/myGPTReader的启发
+
+- [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic)
+
+    专门针对科研工作的ChatGPT应用，针对学术论文校对体验进行优化，支持自定义快捷按钮，支持降价表显示，Tex公式双显示，改进代码显示功能，增加本地Python项目分析/自分析功能。
 
 - [ChatPDF](https://www.chatpdf.com/)
 
@@ -203,10 +215,6 @@
 
     一款使用OpenAI GPT-3进行语言翻译的翻译应用程序。它是一个PWA，可以安装在您的手机或桌面上。源代码: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
 
-- [BiliGPT](https://b.jimmylv.cn/)
-
-    哔哩哔哩字幕视频一键汇总。源代码: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
-
 - [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
 
     这是一个flask应用程序，提供了一个界面，可以与研究论文进行对话。
@@ -214,13 +222,9 @@
 
     作者探索了从与原始tweet中的提示密切匹配的文本中派生的向量嵌入的利用： [@mukul0x](https://twitter.com/mukul0x/status/1625673579399446529)
 
-- [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic)
+- [Semantic Chat](https://www.semanticpen.com/)
 
-    专门针对科研工作的ChatGPT应用，针对学术论文校对体验进行优化，支持自定义快捷按钮，支持降价表显示，Tex公式双显示，改进代码显示功能，增加本地Python项目分析/自分析功能。
-
-- [AI Subtitle Translator](https://ai.cgsv.top/)
-
-    使用GPT-3.5 API翻译本地或Youtube/Bilibili字幕。源代码: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+    一个综合性的AI平台，提供文章写作、聊天功能和图像生成，支持跨多个AI模型的BYOK（自带密钥）。
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
     

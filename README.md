@@ -192,10 +192,22 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 
 ### Special-purpose
 
+- [AI Subtitle Translator](https://ai.cgsv.top/)
+
+    Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
+
+- [BiliGPT](https://b.jimmylv.cn/)
+
+    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
+
 - [ChatFiles](https://github.com/guangzhengli/ChatFiles)
 
     A web app that let you upload your file and have a conversation with it.
     This repository uses jerryjliu/llama_index to split large text, is based on mckaywrigley/chatbot-ui, and is inspired by madawei2699/myGPTReader
+
+- [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic)
+
+    Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
 
 - [ChatPDF](https://www.chatpdf.com/)
 
@@ -204,10 +216,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [OpenAI Translator](https://translator.lance.moe/)
 
     A translator app that uses OpenAI GPT-3 to translate between languages. It is a PWA that can be installed on your phone or desktop. Source code: [LanceMoe/openai-translator](https://github.com/LanceMoe/openai-translator)
-
-- [BiliGPT](https://b.jimmylv.cn/)
-
-    One-click summary of the subtitled Bilibili Video. Source code: [JimmyLv/BiliGPT](https://github.com/JimmyLv/BiliGPT)
 
 - [ResearchGPT](https://researchgpt.ue.r.appspot.com/)
 
@@ -219,14 +227,6 @@ Visit the website to get latest updates: [awesome-chatgpt-api.top](https://aweso
 - [Semantic Chat](https://www.semanticpen.com/)
 
     A comprehensive AI platform offering article writing, chat functionality, and image generation with BYOK (bring your own key) support across multiple AI models.
-
-- [ChatGPT Academic](https://github.com/binary-husky/chatgpt_academic)
-
-    Specialized ChatGPT application for scientific research work, optimized for academic paper proofreading experience, supports custom shortcut buttons, supports markdown table display, Tex formula dual display, improved code display function, added local Python project analysis/self-analysis function.
-
-- [AI Subtitle Translator](https://ai.cgsv.top/)
-
-    Translate local or Youtube/Bilibili subtitle using GPT-3.5 API. Source Code: [AI Subtitle](https://github.com/cgsvv/AISubtitle)
 
 - [Visual ChatGPT](https://github.com/microsoft/visual-chatgpt)
 
